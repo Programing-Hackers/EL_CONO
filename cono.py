@@ -9,7 +9,7 @@ import os
 def cono():
     f = Figlet(font='slant')
     print ("\033[35m")
-    print (f.renderText('    EL CONO :V'))
+    print (f.renderText('    EL CONO'))
     print ("\033[36m")
     print ("""
             MENU
